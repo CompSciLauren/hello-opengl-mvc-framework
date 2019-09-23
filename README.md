@@ -1,1 +1,1 @@
-# hello-opengl-framework
+# Hello OpenGL Framework
