@@ -1,6 +1,6 @@
-# Hello OpenGL Framework
+# Hello OpenGL MVC Framework
 
-> The [hello-opengl](https://github.com/CompSciLauren/hello-opengl "Hello OpenGL") beginner program but using a framework.
+> The [hello-opengl](https://github.com/CompSciLauren/hello-opengl "Hello OpenGL") beginner program but using a Model-View-Controller (MVC) framework.
 
 ## How to Run Program in Terminal
 
